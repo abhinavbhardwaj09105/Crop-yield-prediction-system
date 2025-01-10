@@ -9,6 +9,7 @@ Crop Yield Prediction is a machine learning-based project aimed at predicting cr
 
 
 **Features**
+
 Accurate Predictions: Leverages machine learning models to forecast crop yields.
 
 Environmental Factor Analysis: Considers multiple variables like rainfall, temperature, soil type, and more.
