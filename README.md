@@ -2,14 +2,13 @@
 
 Crop Yield Prediction
 
-Project Overview
+**Project Overview**
 
 Crop Yield Prediction is a machine learning-based project aimed at predicting crop yields based on various environmental and agricultural factors. This tool helps farmers, agriculturalists, and policymakers make data-driven decisions to enhance productivity and sustainability.
 
 
 
-Features
-
+**Features**
 Accurate Predictions: Leverages machine learning models to forecast crop yields.
 
 Environmental Factor Analysis: Considers multiple variables like rainfall, temperature, soil type, and more.
@@ -29,27 +28,6 @@ Python (>= 3.8)
 
 pip
 
-A virtual environment tool like venv or conda
-
-Steps
-
-Clone the repository:
-
-git clone https://github.com/yourusername/crop-yield-prediction.git
-cd crop-yield-prediction
-
-Create and activate a virtual environment:
-
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the application:
-
-python app.py
 
 Usage
 
